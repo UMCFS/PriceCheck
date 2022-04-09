@@ -114,6 +114,7 @@ Categories:
     StockNumbers:
       - ["EVGA RTX 3090 Ti FTW3 Ultra Gaming", 391938 ]
       - ["EVGA RTX 3090 Ti FTW3 Black Gaming", 391946 ]
+      - ["ASUS RTX 3090 Ti TUF Gaming OC", 648270 ]
   - Category: "Intel Core Alder Lake 12th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
@@ -265,9 +266,12 @@ Categories:
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/ryzen.png"
     StockNumbers:
+      - ["AMD Ryzen 5 5500", 647886 ]
+      - ["AMD Ryzen 5 5600", 647887 ]
       - ["AMD Ryzen 5 5600G", 301259 ]
       - ["AMD Ryzen 5 5600X", 195073 ]
       - ["AMD Ryzen 7 5700G", 301242 ]
+      - ["AMD Ryzen 5 5700X", 647885 ]
       - ["AMD Ryzen 7 5800X", 195081 ]
       - ["AMD Ryzen 9 5900X", 195099 ]
       - ["AMD Ryzen 9 5950X", 195107 ]
