@@ -114,6 +114,7 @@ Categories:
     StockNumbers:
       - ["EVGA RTX 3090 Ti FTW3 Ultra Gaming", 391938 ]
       - ["EVGA RTX 3090 Ti FTW3 Black Gaming", 391946 ]
+      - ["ASUS RTX 3090 Ti TUF Gaming OC", 648270 ]
   - Category: "Intel Core Alder Lake 12th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
