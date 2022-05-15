@@ -198,6 +198,12 @@ Categories:
       - ["Gigabyte 6600 XT Gaming Pro", 311910 ]
       - ["Sapphire 6600 XT Nitro Plus", 308320 ]
       - ["PowerColor 6600 XT Fighter", 309443 ]
+  - Category: "AMD Radeon RX 6650 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor RED DEVIL RX6650XT", 391961 ]
+      - ["PowerColor HELLHOUND RX6650XT", 394247 ]
   - Category: "AMD Radeon RX 6700 XT Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
@@ -221,6 +227,13 @@ Categories:
       - ["Sapphire RX 6700 XT Nitro Plus", 250050 ]
       - ["Gigabyte 6700 XT Eagle", 255380 ]
       - ["MSI 6700 XT MECH 2X", 250035 ]
+  - Category: "AMD Radeon RX 6750 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor RED DEVIL RX6750XT", 391615 ]
+      - ["ASUS ROG STRIX RX6750XT O12G", 394049 ]
+      - ["ASUS DUAL RX6750XT O12G", 394056 ]
   - Category: "AMD Radeon RX 6800 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
@@ -263,6 +276,12 @@ Categories:
       - ["Sapphire 6900 XT Toxic", 269720 ]
       - ["Gigabyte 6900 XT AORUS Master", 278903 ]
       - ["Gigabyte 6900 XT Gaming", 276071 ]
+  - Category: "AMD Radeon RX 6950 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor LIQUID DEVIL RX6950XT", 391979 ]
+      - ["PowerColor RED DEVIL RX6950XT", 391631 ]
   - Category: "AMD Ryzen 5000 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/ryzen.png"
