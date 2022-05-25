@@ -202,8 +202,10 @@ Categories:
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
     StockNumbers:
-      - ["PowerColor RED DEVIL RX6650XT", 391961 ]
-      - ["PowerColor HELLHOUND RX6650XT", 394247 ]
+      - ["PowerColor Red Devil RX6650XT", 391961 ]
+      - ["PowerColor Hellhound RX6650XT", 394247 ]
+      - ["ASUS 6650XT ROG Strix", 397190 ]
+      - ["ASUS 6650XT Dual OC", 397083 ]
   - Category: "AMD Radeon RX 6700 XT Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
@@ -231,9 +233,9 @@ Categories:
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
     StockNumbers:
-      - ["PowerColor RED DEVIL RX6750XT", 391615 ]
-      - ["ASUS ROG STRIX RX6750XT O12G", 394049 ]
-      - ["ASUS DUAL RX6750XT O12G", 394056 ]
+      - ["PowerColor Red Devil RX6750XT", 391615 ]
+      - ["ASUS ROG Strix RX6750XT O12G", 394049 ]
+      - ["ASUS DUAL 6750XT O12G", 394056 ]
   - Category: "AMD Radeon RX 6800 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
@@ -280,8 +282,8 @@ Categories:
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
     StockNumbers:
-      - ["PowerColor LIQUID DEVIL RX6950XT", 391979 ]
-      - ["PowerColor RED DEVIL RX6950XT", 391631 ]
+      - ["PowerColor Liquid Devil RX6950XT", 391979 ]
+      - ["PowerColor Red Devil RX6950XT", 391631 ]
   - Category: "AMD Ryzen 5000 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/ryzen.png"
