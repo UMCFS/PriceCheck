@@ -1,4 +1,19 @@
 Categories:
+  - Category: "Nvidia RTX 3080 12GB"
+    Color: "0x36940a"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
+    StockNumbers:
+      - ["ASUS RTX 4090 ROG Strix", 504944 ]
+      - ["ASUS RTX 4090 TUF Gaming OC", 504969 ]
+      - ["ASUS RTX 4090 TUF Gaming", 506675 ]
+      - ["Gigabyte RTX 4090 Gaming OC", 505420 ]
+      - ["Gigabyte RTX 4090 Windforce", 505438 ]
+      - ["MSI RTX 4090 Gaming Trio", 505982 ]
+      - ["MSI RTX 4090 Gaming X Trio", 505966 ]
+      - ["MSI RTX 4090 SUPRIM X", 505958 ]
+      - ["MSI RTX 4090 SUPRIM LIQUID X Hybrid", 505974 ]
+      - ["Zotac RTX 4090 AMP Extreme AIRO", 506055 ]
+      - ["Zotac RTX 4090 Trinity", 506063 ]
   - Category: "Intel Core Alder Lake 12th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
