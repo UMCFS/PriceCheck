@@ -19,7 +19,7 @@ Stores:
     StoreTax: 0.075
   - StoreNum: 191
     StoreLocation: "Overland Park"
-    StoreTax: 0.0911
+    StoreTax: 0.101
   - StoreNum: 121
     StoreLocation: "Cambridge"
     StoreTax: 0.0625
