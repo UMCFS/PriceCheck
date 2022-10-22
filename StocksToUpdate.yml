@@ -53,14 +53,13 @@ Categories:
       - ["MSI RTX 3070 Ti Gaming X Trio", 287011 ]
       - ["MSI RTX 3070 Ti Suprim X", 313973 ]
       - ["MSI RTX 3070 Ti Ventus 3X", 287029 ]
-  - Category: "Intel Core Alder Lake 12th Gen"
+  - Category: "Intel Core Raptor Lake 13th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
     StockNumbers:
-      - ["Intel Core i5-12400", 362020 ]
-      - ["Intel Core i5-12600K", 326678 ]
-      - ["Intel Core i7-12700K", 326652 ]
-      - ["Intel Core i9-12900K", 326694 ]
+      - ["Intel Core i5-13600K", 436212 ]
+      - ["Intel Core i7-13700K", 436196 ]
+      - ["Intel Core i9-13900K", 436188 ]
   - Category: "AMD Ryzen 5000 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/ryzen.png"
