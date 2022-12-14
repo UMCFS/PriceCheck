@@ -1,4 +1,29 @@
 Categories:
+  - Category: "AMD RX 7900 XTX"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["ASRock RX 7900 XTX", 529180 ]
+      - ["ASRock RX 7900 XTX PG24GO", 529131 ]
+      - ["ASRock RX 7900 XTX TC24GO", 529164 ]
+      - ["Gigabyte RX 7900 XTX", 529669 ]
+      - ["PowerColor HELLHOUND RX 7900 XTX", 529214 ]
+      - ["PowerColor RED DEVIL RX 7900 XTX", 529206 ]
+      - ["PowerColor RED DEVIL RX 7900 XTX LE", 526509 ]
+      - ["PowerColor RX 7900 XTX", 526525 ]
+      - ["Sapphire RX 7900 XTX", 527887 ]
+  - Category: "AMD RX 7900 XT"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["ASRock RX 7900 XT", 529172 ]
+      - ["ASRock RX 7900 XT PG20GO", 529149 ]
+      - ["ASRock RX 7900 XT TC20GO", 529156 ]
+      - ["Gigabyte RX 7900 XT", 529685 ]
+      - ["PowerColor HELLHOUND RX 7900 XT", 529222 ]
+      - ["PowerColor RED DEVIL RX 7900 XT", 526517 ]
+      - ["PowerColor RX 7900 XT", 526533 ]
+      - ["Sapphire RX 7900 XT", 525022 ]
   - Category: "Nvidia RTX 4090"
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
