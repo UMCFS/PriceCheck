@@ -7,9 +7,9 @@ Categories:
       - ["ASRock RX 7900 XTX PG24GO", 529131 ]
       - ["ASRock RX 7900 XTX TC24GO", 529164 ]
       - ["Gigabyte RX 7900 XTX", 529669 ]
-      - ["PowerColor HELLHOUND RX 7900 XTX", 529214 ]
-      - ["PowerColor RED DEVIL RX 7900 XTX", 529206 ]
-      - ["PowerColor RED DEVIL RX 7900 XTX LE", 526509 ]
+      - ["PowerColor Hellhound RX 7900 XTX", 529214 ]
+      - ["PowerColor Red Devil RX 7900 XTX", 529206 ]
+      - ["PowerColor Red Devil RX 7900 XTX LE", 526509 ]
       - ["PowerColor RX 7900 XTX", 526525 ]
       - ["Sapphire RX 7900 XTX", 527887 ]
   - Category: "AMD RX 7900 XT"
@@ -20,8 +20,8 @@ Categories:
       - ["ASRock RX 7900 XT PG20GO", 529149 ]
       - ["ASRock RX 7900 XT TC20GO", 529156 ]
       - ["Gigabyte RX 7900 XT", 529685 ]
-      - ["PowerColor HELLHOUND RX 7900 XT", 529222 ]
-      - ["PowerColor RED DEVIL RX 7900 XT", 526517 ]
+      - ["PowerColor Hellhound RX 7900 XT", 529222 ]
+      - ["PowerColor Red Devil RX 7900 XT", 526517 ]
       - ["PowerColor RX 7900 XT", 526533 ]
       - ["Sapphire RX 7900 XT", 525022 ]
   - Category: "Nvidia RTX 4090"
@@ -29,14 +29,14 @@ Categories:
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
       - ["ASUS RTX 4090 ROG Strix", 504944 ]
-      - ["ASUS RTX 4090 TUF Gaming OC", 504969 ]
       - ["ASUS RTX 4090 TUF Gaming", 506675 ]
+      - ["ASUS RTX 4090 TUF Gaming OC", 504969 ]
       - ["Gigabyte RTX 4090 Gaming OC", 505420 ]
       - ["Gigabyte RTX 4090 Windforce", 505438 ]
       - ["MSI RTX 4090 Gaming Trio", 505982 ]
       - ["MSI RTX 4090 Gaming X Trio", 505966 ]
-      - ["MSI RTX 4090 SUPRIM X", 505958 ]
-      - ["MSI RTX 4090 SUPRIM LIQUID X Hybrid", 505974 ]
+      - ["MSI RTX 4090 Suprim X", 505958 ]
+      - ["MSI RTX 4090 Suprim Liquid X Hybrid", 505974 ]
       - ["Zotac RTX 4090 AMP Extreme AIRO", 506055 ]
       - ["Zotac RTX 4090 Trinity", 506063 ]
   - Category: "Nvidia RTX 4080"
@@ -44,18 +44,40 @@ Categories:
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
       - ["ASUS RTX 4080 ROG Strix", 520080 ]
-      - ["ASUS RTX 4080 TUF Gaming OC", 520072 ]
       - ["ASUS RTX 4080 TUF Gaming", 520262 ]
-      - ["Gigabyte RTX 4080 AORUS MASTER OC", 520478 ]
+      - ["ASUS RTX 4080 TUF Gaming OC", 520072 ]
+      - ["Gigabyte RTX 4080 Aorus Master OC", 520478 ]
       - ["Gigabyte RTX 4080 Eagle", 520486 ]
       - ["Gigabyte RTX 4080 Eagle OC", 520445 ]
       - ["Gigabyte RTX 4080 Gaming OC", 520460 ]
       - ["MSI RTX 4080 Gaming X Trio", 520650 ]
-      - ["MSI RTX 4080 SUPRIM X OC", 520643 ]
+      - ["MSI RTX 4080 Suprim X OC", 520643 ]
       - ["MSI RTX 4080 Ventus 3X OC", 520668 ]
       - ["PNY RTX 4080 PNY XLR8 Gaming Verto Epic-X", 517078 ]
       - ["Zotac RTX 4080 AMP Extreme AIRO", 520742 ]
       - ["Zotac RTX 4080 Trinity", 520759 ]
+  - Category: "Nvidia RTX 4070Ti"
+    Color: "0x36940a"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
+    StockNumbers:
+      - ["ASUS RTX 4070 Ti ROG Strix", 529123 ]
+      - ["ASUS RTX 4070 Ti ROG Strix OC", 529115 ]
+      - ["ASUS RTX 4070 Ti TUF Gaming", 529107 ]
+      - ["ASUS RTX 4070 Ti TUF Gaming OC", 529099 ]
+      - ["Gigabyte RTX 4070 Ti Aero OC", 529974 ]
+      - ["Gigabyte RTX 4070 Ti Aorus Master OC", 529958 ]
+      - ["Gigabyte RTX 4070 Ti Eagle", 529966 ]
+      - ["Gigabyte RTX 4070 Ti Eagle OC", 526806 ]
+      - ["Gigabyte RTX 4070 Ti Gaming OC", 526491 ]
+      - ["MSI RTX 4070 Ti Gaming Trio", 529073 ]
+      - ["MSI RTX 4070 Ti Suprim X", 529081 ]
+      - ["MSI RTX 4070 Ti Ventus 3X", 529388 ]
+      - ["MSI RTX 4070 Ti Ventus 3X OC", 529065 ]
+      - ["PNY RTX 4070 Ti XLR8 Gaming Verto", 534073 ]
+      - ["PNY RTX 4070 Ti XLR8 Gaming Verto OC", 534065 ]
+      - ["Zotac RTX 4070 Ti AMP Airo", 531681 ]
+      - ["Zotac RTX 4070 Ti AMP Extreme Airo OC", 531657 ]
+      - ["Zotac RTX 4070 Ti Trinity", 531665 ]
   - Category: "Intel Core Raptor Lake 13th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
