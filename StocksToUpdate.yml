@@ -56,7 +56,7 @@ Categories:
       - ["PNY RTX 4080 PNY XLR8 Gaming Verto Epic-X", 517078 ]
       - ["Zotac RTX 4080 AMP Extreme AIRO", 520742 ]
       - ["Zotac RTX 4080 Trinity", 520759 ]
-  - Category: "Nvidia RTX 4070Ti"
+  - Category: "Nvidia RTX 4070Ti (1 of 2)"
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
@@ -69,6 +69,10 @@ Categories:
       - ["Gigabyte RTX 4070 Ti Eagle", 529966 ]
       - ["Gigabyte RTX 4070 Ti Eagle OC", 526806 ]
       - ["Gigabyte RTX 4070 Ti Gaming OC", 526491 ]
+  - Category: "Nvidia RTX 4070Ti (2 of 2)"
+    Color: "0x36940a"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
+    StockNumbers:
       - ["MSI RTX 4070 Ti Gaming Trio", 529073 ]
       - ["MSI RTX 4070 Ti Suprim X", 529081 ]
       - ["MSI RTX 4070 Ti Ventus 3X", 529388 ]
