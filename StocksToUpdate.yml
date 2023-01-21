@@ -89,9 +89,14 @@ Categories:
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
     StockNumbers:
+      - ["Intel Core i5-13400", 533463 ]
       - ["Intel Core i5-13600K", 436212 ]
+      - ["Intel Core i7-13700", 533455 ]
+      - ["Intel Core i7-13700K", 436196 ]      
       - ["Intel Core i7-13700K", 436196 ]
+      - ["Intel Core i9-13900", 533448 ]
       - ["Intel Core i9-13900K", 436188 ]
+      - ["Intel Core i9-13900KS", 533406 ]
   - Category: "AMD Ryzen 5000 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/ryzen.png"
