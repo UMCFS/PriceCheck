@@ -31,7 +31,8 @@ Categories:
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
-      - ["ASUS RTX 4090 ROG Strix", 504944 ]
+      - ["ASUS RTX 4090 ROG Strix", 522508 ]
+      - ["ASUS RTX 4090 ROG Strix OC", 504944 ]
       - ["ASUS RTX 4090 TUF Gaming", 506675 ]
       - ["ASUS RTX 4090 TUF Gaming OC", 504969 ]
       - ["Gigabyte RTX 4090 Gaming OC", 505420 ]
