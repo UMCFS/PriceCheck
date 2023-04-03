@@ -21,7 +21,6 @@ Categories:
     StockNumbers:
       - ["ASRock RX 7900 XT", 529172 ]
       - ["ASRock RX 7900 XT PG20GO", 529149 ]
-      - ["ASRock RX 7900 XT TC20GO", 529156 ]
       - ["Gigabyte RX 7900 XT", 529685 ]
       - ["PowerColor Hellhound RX 7900 XT", 529222 ]
       - ["PowerColor Red Devil RX 7900 XT", 526517 ]
@@ -36,7 +35,6 @@ Categories:
       - ["ASUS RTX 4090 TUF Gaming", 506675 ]
       - ["ASUS RTX 4090 TUF Gaming OC", 504969 ]
       - ["Gigabyte RTX 4090 Gaming OC", 505420 ]
-      - ["Gigabyte RTX 4090 Windforce", 505438 ]
       - ["MSI RTX 4090 Gaming Trio", 505982 ]
       - ["MSI RTX 4090 Gaming X Trio", 505966 ]
       - ["MSI RTX 4090 Suprim X", 505958 ]
@@ -83,7 +81,6 @@ Categories:
       - ["MSI RTX 4070 Ti Ventus 3X OC", 529065 ]
       - ["PNY RTX 4070 Ti XLR8 Gaming Verto", 534073 ]
       - ["PNY RTX 4070 Ti XLR8 Gaming Verto OC", 534065 ]
-      - ["Zotac RTX 4070 Ti AMP Airo", 531681 ]
       - ["Zotac RTX 4070 Ti AMP Extreme Airo OC", 531657 ]
       - ["Zotac RTX 4070 Ti Trinity", 531665 ]
   - Category: "Intel Core Raptor Lake 13th Gen"
