@@ -74,3 +74,6 @@ Stores:
   - StoreNum: 081
     StoreLocation: "Fairfax"
     StoreTax: 0.06
+  - StoreNum: 165
+    StoreLocation: "Indianapolis"
+    StoreTax: 0.07
