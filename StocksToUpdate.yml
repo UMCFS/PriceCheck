@@ -124,30 +124,21 @@ Categories:
     StockNumbers:
       - ["G.Skill 32GB 2x16GB 5600 CL36 Black", 354209 ]
       - ["G.Skill 32GB 5600 White", 354183 ]
-      - ["G.Skill RGB 32GB 2x16GB 5600 CL36 White", 354175 ]
-      - ["G.Skill RGB 32GB 2x16GB 5600 CL36 Black", 355149 ]
       - ["Corsair Dominator Platinum RGB 32GB 2x16GB 5200 CL38 Black", 343459 ]
   - Category: "DDR5 RAM 6000"
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
       - ["G.Skill RGB 32GB 2x16GB 6000 CL40 Black", 359679 ]
-      - ["G.Skill 32GB 2x16GB 6000 CL40 Black", 362079 ]
-      - ["G.Skill 32GB 2x16GB 6000 CL36 Black", 361782 ]
-      - ["G.Skill RGB 32GB 2x16GB 6000 CL36 White", 359687 ]
   - Category: "DDR5 RAM 5200~5800 : GSkill J Models"
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
       - ["G.Skill 32GB 2x16GB 5600 CL36 White", 371906 ]
-      - ["G.Skill 32GB 2x16GB 5600 CL36 Black", 371419 ]
   - Category: "DDR5 RAM 6000 : GSkill J Models"
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
-      - ["G.Skill RGB 32GB 2x16GB 6000 CL40 White", 371831 ]
-      - ["G.Skill RGB 32GB 2x16GB 6000 CL40 Black", 371856 ]
-      - ["G.Skill 32GB 2x16GB 6000 CL36 Black", 371872 ]
       - ["G.Skill RGB 32GB 2x16GB 6000 CL36 Black", 371880 ]
   - Category: "DDR5 RAM >6000 : GSkill J Models"
     Color: "0x7556b3"
