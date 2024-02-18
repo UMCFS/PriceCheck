@@ -3,17 +3,11 @@ Categories:
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
     StockNumbers:
-      - ["ASRock RX 7900 XTX", 529180 ]
       - ["ASRock RX 7900 XTX Phantom Gaming OC", 529131 ]
       - ["ASRock RX 7900 XTX Taichi OC", 529164 ]
-      - ["Gigabyte RX 7900 XTX", 529669 ]
       - ["Gigabyte RX 7900 XTX Gaming OC", 529917 ]
-      - ["Gigabyte RX 7900 XTX Aorus Elite OC", 529925 ]
       - ["PowerColor Hellhound RX 7900 XTX", 529214 ]
       - ["PowerColor Red Devil RX 7900 XTX", 529206 ]
-      - ["PowerColor Red Devil RX 7900 XTX LE", 526509 ]
-      - ["PowerColor RX 7900 XTX", 526525 ]
-      - ["Sapphire RX 7900 XTX", 527887 ]
       - ["Sapphire RX 7900 XTX Nitro Plus Vapor-X OC", 533786 ]
   - Category: "AMD RX 7900 XT"
     Color: "0xde5b1f"
@@ -25,7 +19,6 @@ Categories:
       - ["PowerColor Hellhound RX 7900 XT", 529222 ]
       - ["PowerColor Red Devil RX 7900 XT", 526517 ]
       - ["PowerColor RX 7900 XT", 526533 ]
-      - ["Sapphire RX 7900 XT", 525022 ]
   - Category: "Nvidia RTX 4090"
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
@@ -49,7 +42,6 @@ Categories:
       - ["ASUS RTX 4080 TUF Gaming", 520262 ]
       - ["ASUS RTX 4080 TUF Gaming OC", 520072 ]
       - ["Gigabyte RTX 4080 Aorus Master OC", 520478 ]
-      - ["Gigabyte RTX 4080 Eagle", 520486 ]
       - ["Gigabyte RTX 4080 Eagle OC", 520445 ]
       - ["Gigabyte RTX 4080 Gaming OC", 520460 ]
       - ["MSI RTX 4080 Gaming X Trio", 520650 ]
@@ -57,7 +49,6 @@ Categories:
       - ["MSI RTX 4080 Ventus 3X OC", 520668 ]
       - ["PNY RTX 4080 PNY XLR8 Gaming Verto Epic-X", 517078 ]
       - ["Zotac RTX 4080 AMP Extreme AIRO", 520742 ]
-      - ["Zotac RTX 4080 Trinity", 520759 ]
   - Category: "Nvidia RTX 4070Ti (1 of 2)"
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
@@ -82,7 +73,6 @@ Categories:
       - ["PNY RTX 4070 Ti XLR8 Gaming Verto", 534073 ]
       - ["PNY RTX 4070 Ti XLR8 Gaming Verto OC", 534065 ]
       - ["Zotac RTX 4070 Ti AMP Extreme Airo OC", 531657 ]
-      - ["Zotac RTX 4070 Ti Trinity", 531665 ]
   - Category: "Intel Core Raptor Lake 13th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
