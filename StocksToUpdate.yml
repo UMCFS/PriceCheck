@@ -13,7 +13,6 @@ Categories:
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
     StockNumbers:
-      - ["ASRock RX 7900 XT", 529172 ]
       - ["ASRock RX 7900 XT PG20GO", 529149 ]
       - ["Gigabyte RX 7900 XT", 529685 ]
       - ["PowerColor Hellhound RX 7900 XT", 529222 ]
@@ -25,15 +24,11 @@ Categories:
     StockNumbers:
       - ["ASUS RTX 4090 ROG Strix", 522508 ]
       - ["ASUS RTX 4090 ROG Strix OC", 504944 ]
-      - ["ASUS RTX 4090 TUF Gaming", 506675 ]
       - ["ASUS RTX 4090 TUF Gaming OC", 504969 ]
       - ["Gigabyte RTX 4090 Gaming OC", 505420 ]
       - ["MSI RTX 4090 Gaming Trio", 505982 ]
       - ["MSI RTX 4090 Gaming X Trio", 505966 ]
-      - ["MSI RTX 4090 Suprim X", 505958 ]
       - ["MSI RTX 4090 Suprim Liquid X Hybrid", 505974 ]
-      - ["Zotac RTX 4090 AMP Extreme AIRO", 506055 ]
-      - ["Zotac RTX 4090 Trinity", 506063 ]
   - Category: "Nvidia RTX 4080 Super"
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
@@ -119,7 +114,6 @@ Categories:
     StockNumbers:
       - ["Crucial 16GB 4800", 343400 ]
       - ["Crucial 32GB 4800", 343418 ]
-      - ["HyperX 32GB 2x16GB 4800", 343772 ]
       - ["Crucial 64GB 2x32GB 4800 CL40 Black", 343442 ]
   - Category: "DDR5 RAM 5200~5800"
     Color: "0x7556b3"
@@ -153,4 +147,3 @@ Categories:
       - ["G.Skill RGB 32GB 2x16GB 7200 CL34 Black", 516534 ]
       - ["G.Skill RGB 32GB 2x16GB 7600 CL36 Black", 516559 ]
       - ["G.Skill RGB 32GB 2x16GB 7800 CL36 Black", 526954 ]
-      - ["G.Skill RGB 32GB 2x16GB 8000 CL38 Black", 526962 ]
